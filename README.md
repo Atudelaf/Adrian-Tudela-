@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 **About Me**  
-Passionate about bridging gaps between data and decision-making, I leverage **Jira**, **Trello**, **SQL**, and **PowerBI** to deliver actionable insights. With a knack for visualization (Figma, PowerBI) and automation (Python, JS), I turn chaos into structured workflows. I have a Master in Business Administration and Bachelor`s degree in industrial engineering with 3+ years of experience in product/project management, business planning, acquisitions, and logistics. I acquired knowledge in finance management, merchandising and business analytics.  
+Passionate about bridging gaps between data and decision-making, I leverage **Jira**, **Trello**, **SQL**, and **PowerBI** to deliver actionable insights. With a knack for visualization (Figma, PowerBI) and automation (Python, JS), turning chaos into structured workflows that optimize processes drives me to keep improving. I have a Master's in Business Administration and Bachelor`s degree in industrial engineering with 3+ years of experience in product/project management, business planning, acquisitions, and logistics. I acquired knowledge in finance management, merchandising and business analytics.  
 
 ---
 
@@ -33,8 +33,8 @@ Passionate about bridging gaps between data and decision-making, I leverage **Ji
 
 | Project | Description | Preview |
 |---------|-------------|---------|
-| **[Dashboard UI](https://www.figma.com/...)** | Interactive analytics dashboard for stakeholder reports | ![Dashboard Preview](images/dashboard-preview.png) |
-| **[User Flow Wireframes](https://www.figma.com/...)** | Streamlined UX flows for agile teams | ![Wireframe Preview](images/wireframe-preview.png) |
+| **[Ecommerce Product](https://www.figma.com/proto/RiQJEmZVTjdg1iAwUbKOrJ/Mejoras-Backlog_Luxury_2022?node-id=2937-23146&starting-point-node-id=2937%3A23146&t=ElQYiE2WJvzDi75h-1)** | Interactive ecommerce webpage for clients and stakeholders | ![Product Preview](ecommerce-platform.jpg) |
+| **[EcoLife Mobile App](https://www.figma.com/proto/VNdjXLseY51CGYIXsgAfID/Untitled?page-id=0%3A1&node-id=3-519&viewport=511%2C871%2C0.15&t=Szm8UdVPxKhoAP9q-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3%3A519&show-proto-sidebar=1)** | UX/UI workflow for an mobile application | ![Mobile App Preview](Ecolife-coverpage.jpg) |
 
 *(Replace links/image paths with your actual Figma projects. Upload images to your repo’s `/images` folder.)*  
 
